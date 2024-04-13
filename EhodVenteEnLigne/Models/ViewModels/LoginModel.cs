@@ -4,10 +4,10 @@ namespace EhodBoutiqueEnLigne.Models.ViewModels
 {
     public class LoginModel
     {
-        [Required]
+        [Required(ErrorMessage = "Le nom d'utilisateur est requis.")]
         public string Name { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "Le mot de passe est requis.")]
         public string Password { get; set; }
 
         public string ReturnUrl { get; set; } = "/";
