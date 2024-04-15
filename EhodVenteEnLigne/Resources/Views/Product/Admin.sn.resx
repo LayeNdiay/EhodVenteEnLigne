@@ -117,13 +117,32 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="LanguageEnglish" xml:space="preserve">
-    <value>Anglais</value>
+  <data name="Administrator" xml:space="preserve">
+    <value>Administrator</value>
   </data>
-  <data name="LanguageFrench" xml:space="preserve">
-    <value>Français</value>
+  <data name="Create" xml:space="preserve">
+    <value>Kreeye</value>
   </data>
-  <data name="LanguageWolof" xml:space="preserve">
-    <value>Wolof</value>
+  <data name="Delete" xml:space="preserve">
+    <value>Dëkkale</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Sandoo</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>tour</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>nieug</value>
+  </data>
+  <data name="ProductAdministrationModule" xml:space="preserve">
+    <value>Faññulen ak ndëkkilal paamaren</value>
+  </data>
+  <data name="Stock" xml:space="preserve">
+    <value>Mboot</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>Xibaar</value>
+    <comment>Xibaar</comment>
   </data>
 </root>

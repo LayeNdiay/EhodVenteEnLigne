@@ -117,13 +117,35 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="LanguageEnglish" xml:space="preserve">
-    <value>Anglais</value>
+  <data name="Checkout" xml:space="preserve">
+    <value>Yàggal</value>
   </data>
-  <data name="LanguageFrench" xml:space="preserve">
-    <value>Français</value>
+  <data name="ContinueShopping" xml:space="preserve">
+    <value>Yàggal té waa</value>
   </data>
-  <data name="LanguageWolof" xml:space="preserve">
-    <value>Wolof</value>
+  <data name="Item" xml:space="preserve">
+    <value>Mbañ</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>nieuk</value>
+  </data>
+  <data name="Quantity" xml:space="preserve">
+    <value>Say</value>
+  </data>
+  <data name="Remove" xml:space="preserve">
+    <value>dindi</value>
+  </data>
+  <data name="Subtotal" xml:space="preserve">
+    <value>Mbootu yi</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Gëstu gëstukaay yi</value>
+  </data>
+  <data name="YourCart" xml:space="preserve">
+    <value>sa leket</value>
+  </data>
+  <data name="Average" xml:space="preserve">
+    <value>Met</value>
+    <comment>Promedio</comment>
   </data>
 </root>
